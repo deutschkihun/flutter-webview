@@ -14,7 +14,7 @@ class App extends StatelessWidget {
           textTheme: const TextTheme(
             labelLarge: TextStyle(color: Colors.white, fontSize: 18.0),
           )),
-      home: const Home(),
+      home: Home(),
     );
   }
 }
